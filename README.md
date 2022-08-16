@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love creating technological things and programming them**
 
-<img  align="center"  alt="Coding" width="350" src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956">
+<img  align="center"  alt="Coding" width="350" src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
