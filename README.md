@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realclownblack&theme=algolia&show_icons=true&locale=en&layout=compact" alt="realclownblack" /></p>
 
-<div style="display:block">
+<div style="display:flex">
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=realclownblack&theme=algolia" alt="realclownblack" /></p>
 
 <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=realclownblack&theme=algolia&show_icons=true&locale=en" alt="realclownblack" /></p>
