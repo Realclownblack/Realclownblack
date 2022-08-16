@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love creating technological things and programming them**
 
-<img align="right" alt="Coding" width="350" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
+<img  align="center"  alt="Coding" width="350" src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
