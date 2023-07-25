@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danilo william</h1>
 <h3 align="center">A developer who loves to create both front end and back end projects</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realclownblack" alt="realclownblack" /></a> </p>
-
 - 🔭 I’m currently working on [Manual digital da Bosch](https://manual-digital-bosch.vercel.app/)
 
 - 🌱 I’m currently learning **go, rust, pyspark ,vue.js e angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Realclownblack](https://github.com/Realclownblack)
-
 - 💬 Ask me about **Corinthians**
 
 - 📫 How to reach me **danilowilliam3255@gmail**
-
-- 📄 Know about my experiences [https://github.com/Realclownblack](https://github.com/Realclownblack)
 
 - ⚡ Fun fact **I am part of the 3rd class of the bosch brasil digital talent academy**
 
