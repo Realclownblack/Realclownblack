@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo william</h1>
 <h3 align="center">A developer who loves to create both front end and back end projects</h3>
 
-- 🔭 I’m currently working on [Manual digital da Bosch](https://manual-digital-bosch.vercel.app/)
+- 🔭 I’m currently working on [Data Engineer]
 
 - 🌱 I’m currently learning **go, rust, pyspark ,vue.js e angular**
 
