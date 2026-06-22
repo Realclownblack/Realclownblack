@@ -18,7 +18,11 @@
 <a href="https://instagram.com/https://www.instagram.com/realclownblack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/realclownblack/" height="30" width="40" /></a>
 </p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realclownblack&show_icons=true&theme=dark&locale=en&layout=compact" alt="realclownblack" /></p>
+<div>
+  <a href="https://github.com/realclownblack">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realclownblack&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=realclownblack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
